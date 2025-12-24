@@ -1,0 +1,5 @@
+{
+  "name": "BiPlayer Next V2",
+  "description": "A professional web-based multimedia mixer for Ambient, Visuals, and Music tracks using the File System Access API.",
+  "requestFramePermissions": []
+}
